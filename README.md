@@ -31,7 +31,7 @@ To run this project locally on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/HitanshiSahni/Music_App>
 
 2. **Open in Android Studio:**
     Launch Android Studio, select Open, and navigate to the root directory of this cloned project.
